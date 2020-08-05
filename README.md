@@ -30,4 +30,4 @@
 
 **Проект**
 
-- [Ссылка на проект в github pages](https://iiiokojiadbi.github.io/mesto-vanila/)
+- [Ссылка на проект в github pages](https://iiiokojiadbi.github.io/mesto/)
